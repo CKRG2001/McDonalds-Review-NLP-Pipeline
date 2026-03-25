@@ -147,15 +147,6 @@ app.py            → Streamlit interactive dashboard
 
 ---
 
-## 📈 Future Improvements
-
-- [ ] Fine-tune model on McDonald's specific data for better accuracy
-- [ ] Add time-based trend analysis
-- [ ] Add word cloud per issue category
-- [ ] Deploy with Docker for production use
-
----
-
 ## 👤 Author
 
 **Chaitanya Kumar Reddy Goukanapalli**
